@@ -8,7 +8,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node .",
-    "build": "./nvminstall.sh"
+    "build": "./nvminstall.sh && yarn"
   },
   "keywords": [],
   "author": "",
