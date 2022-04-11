@@ -1,7 +1,7 @@
 import Discord from "discord.js";
 
 export default function Home() {
-  return <div>I'm Alive!</div>;
+  return <div>I&apos;m Alive!</div>;
 }
 
 export const getStaticProps = () => {
